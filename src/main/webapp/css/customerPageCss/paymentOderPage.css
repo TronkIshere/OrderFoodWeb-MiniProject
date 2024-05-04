@@ -1,0 +1,208 @@
+.section-Customer-Menu-Form {
+    padding: 9.6rem 0;
+}
+
+.Menu-form {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    box-shadow: 0 2.4rem 4.8rem rgba(0, 0, 0, 0.15);
+    border-radius: 11px;
+    
+    background-image: linear-gradient(to right bottom, #eb984e, #e67e22);
+    overflow: hidden;
+}
+
+.heading-container {
+    grid-column: 1 / span 3; /* Tiêu đề sẽ chiếm toàn bộ 3 cột */
+    padding-left: 6.4rem;
+}
+
+.Menu-form-text-box {
+    padding: 0rem 6.4rem 6.4rem 6.4rem;
+    color: #45260a;
+}
+
+.Menu-form-text {
+    font-size: 1.8rem;
+    line-height: 1.8;
+    margin-bottom: 4.8rem;
+}
+
+.Menu-form .heading-secondary {
+    /* color: #45260a; */
+    margin-bottom: 3.2rem;
+    font-size: 3.6rem;
+}
+
+    
+.Menu-form-info {
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+.Menu-form label {
+    display: block;
+    font-size: 1.8rem;
+    font-weight: 500;
+    margin-bottom: 1.2rem;
+}
+
+.Menu-form input::placeholder {
+    color: #aaa;
+}
+
+.Menu *:focus {
+    outline: none;
+    box-shadow: 0 0 0 0.8rem rgba(253, 242, 233, 0.5);
+}
+
+/*Food pic*/
+.wrapper-pic-item {
+    height: 100%;
+    width: 100%;
+}
+
+/*Menu form pic*/
+.Menu-form-pic {
+    display: flex;
+    flex-direction : column;
+    justify-content: space-between;
+    align-items : center;
+
+    padding-bottom: 6.4rem;
+}
+
+.Menu-form-img-box {
+    margin-top: 2.4rem;
+    margin-bottom: 2.4rem;
+    height: 32rem;
+    border-radius: 15px;
+
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.Menu-form-list {
+    display: flex;
+    flex-direction : column;
+    align-items : center;
+}
+
+.btn--form {
+    align-self: normal;
+}
+.change-img-text {
+    font-size: 1.8rem;
+}
+
+.heading-img-text {
+    font-size: 2.4rem;
+    font-weight: 520;
+    color: #333;
+    padding-bottom: 2.4rem;
+}
+
+/*wrapper*/
+.wrapper {
+    width: 100%;
+    border-radius: 12px;
+    overflow: hidden;
+    background-color: #fdf2e9;
+    max-height: 14rem;
+
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    margin-bottom: 2.4rem;
+
+    font-size: 1.4rem;
+    cursor: pointer;
+}
+
+.wrapper span {
+    font-weight: 520;
+}
+
+.wrapper-pic-box {
+    width: 100%;
+    height: 100%;
+
+}
+
+.wrapper-info {
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.wrapper-info-padding {
+    padding: 1.2rem 0 1.2rem 1.2rem;
+}
+
+
+.meal-content {
+    background-color: #fdf2e9;
+}
+
+.container {
+    max-width: 150rem;
+}
+
+/*Address*/
+.address-form {
+    margin-bottom: 3.6rem;
+}
+
+.address-label {
+    font-weight: 520;
+}
+
+.wrapper-address {
+    width: 100%;
+    border: none;
+    border-radius: 12px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+}
+
+.wrapper-address label {
+    all: unset;
+}
+
+.wrapper-address label,
+.wrapper-address select,
+.wrapper-address input {
+    padding: 1.2rem 0 1.2rem 1.2rem;
+    background-color: #fdf2e9;
+    font-size: 1.8rem;
+    font-family: inherit;  
+    color: inherit;
+    border: none; 
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+    flex: 1;
+}
+
+.wrapper-address button {
+    border: none;
+    margin-left: -50px; /* Khoảng cách giữa nút và input */
+    z-index: 1; /* Đảm bảo nút nằm phía trên input */
+    font-size: 1.6rem;
+    border-radius: unset;
+    padding: 1.2rem 0.8rem;
+}
+
+.pay-bill {
+    display: flex;
+    justify-content: space-around;
+}
+
+.bill {
+    font-size: 2.4rem;
+    padding: 1.2rem 0;
+}
+
+.bill span {
+    font-weight: 520;
+}

@@ -1,0 +1,259 @@
+.section-Customer-Information-Form {
+    padding: 9.6rem 0;
+}
+
+.Information-form {
+    display: grid;
+    grid-template-columns: 1.8fr 1.2fr 1fr;
+    box-shadow: 0 2.4rem 4.8rem rgba(0, 0, 0, 0.15);
+    border-radius: 11px;
+    
+    background-image: linear-gradient(to right bottom, #eb984e, #e67e22);
+    overflow: hidden;
+    height: auto;
+}
+
+.heading-container {
+    grid-column: 1 / span 3; /* Tiêu đề sẽ chiếm toàn bộ 3 cột */
+    text-align: center;
+}
+
+.Information-form-text-box {
+    padding: 0rem 6.4rem 6.4rem 6.4rem;
+    color: #45260a;
+}
+
+.Information-form-text-box div {
+    margin-bottom: 1.8rem;
+}
+
+.Information-form-text {
+    font-size: 1.8rem;
+    line-height: 1.8;
+    margin-bottom: 4.8rem;
+}
+
+.Information-form .heading-secondary {
+    /* color: #45260a; */
+    margin-bottom: 3.2rem;
+    font-size: 3.6rem;
+}
+
+    
+.Information-form-info {
+    display: grid;
+    grid-template-columns: 1fr;
+    column-gap: 3.2rem;
+    row-gap: 2.4rem;
+}
+
+.Information-form label {
+    display: block;
+    font-size: 1.8rem;
+    font-weight: 500;
+    margin-bottom: 1.2rem;
+}
+
+/* .Information-form select,
+.Information-form input {
+    width: 100%;
+    padding: 1.2rem 0;
+    font-size: 1.8rem;
+    font-family: inherit;  
+    color: inherit;
+    border: none;
+    background-color: #fdf2e9;
+    border-radius: 9px;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+} */
+
+.Information-form input::placeholder {
+    color: #aaa;
+}
+
+.Information *:focus {
+    outline: none;
+    box-shadow: 0 0 0 0.8rem rgba(253, 242, 233, 0.5);
+}
+
+/*Information form pic*/
+.Information-form-pic {
+    display: flex;
+    flex-direction : column;
+    justify-content: space-between;
+    align-items : center;
+
+    padding-bottom: 6.4rem;
+}
+
+.Information-form-img-box {
+    margin-top: 2.4rem;
+    margin-bottom: 2.4rem;
+    width: 25rem;
+    height: 32rem;
+    border-radius: 15px;
+
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.Information-form-list {
+    display: flex;
+    flex-direction : column;
+    align-items : center;
+    text-align: center;
+    justify-content: center;
+}
+
+.btn--form {
+    align-self: normal;
+}
+
+.heading-img-text {
+    font-size: 1.8rem;
+    font-weight: 520;
+    color: #333;
+}
+
+/*Information form history*/
+.Information-form-history {
+    margin: 0rem 2.8rem 6.4rem 0rem;
+
+    overflow: hidden;
+    border-radius: 12px;
+    border: 2px solid #aa5d1e;
+}
+
+.history-text-form {
+    height: 100%;
+    width: 100%;
+    background-color: white;
+
+    display: flex;
+    flex-direction : column;
+    align-items : center;
+    justify-content: space-between;
+}
+
+.heading-history,
+.show-all-history {
+    height: 3.6rem;
+    width: 100%;
+    font-size: 1.8rem;
+    font-weight: 520;
+    background-color: #ef7510;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.heading-history {
+    border-bottom: 1px solid black;
+    color: #333;
+}
+
+.show-all-history {
+    border-top: 1px solid black;
+}
+
+.history-list {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.history-list-item {
+    background-color: #fdf2e9;
+    height: 8rem;
+    border-radius: 12px;
+    margin: 0rem 0.4rem;
+    overflow: hidden;
+    display: flex;
+}
+
+.history-list-item img {
+    width: 10rem;
+    min-width: 10rem;
+    height: 100%;
+    border-radius: 12px;
+}
+
+.history-list-item-text {
+    padding: 1.2rem 0 1.2rem 0.4rem;
+    font-size: 1.2rem;
+    font-weight: 500;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+/*button wrapper*/
+.wrapper {
+    width: 100%;
+    border: none;
+    border-radius: 12px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+}
+
+.wrapper label {
+    all: unset;
+}
+
+.wrapper label,
+.wrapper select,
+.wrapper input {
+    padding: 1.2rem 0 1.2rem 1.2rem;
+    background-color: #fdf2e9;
+    font-size: 1.8rem;
+    font-family: inherit;  
+    color: inherit;
+    border: none; 
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+    flex: 1;
+}
+
+.wrapper button {
+    border: none;
+    margin-left: -50px; /* Khoảng cách giữa nút và input */
+    z-index: 1; /* Đảm bảo nút nằm phía trên input */
+    font-size: 1.6rem;
+    border-radius: unset;
+    padding: 1.2rem 0.8rem;
+}
+
+
+/*Demo input img file*/
+.custom-file-input {
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.file-input {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    cursor: pointer;
+    opacity: 0;
+}
+
+.file-label {
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.img-confirm-button {
+    padding: 1.2rem;
+}

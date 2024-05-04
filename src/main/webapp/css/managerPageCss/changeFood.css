@@ -1,0 +1,138 @@
+.modal {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    display: flex;
+}
+
+.changeFood_modal_overlay {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    display: flex;
+
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.4);
+
+    opacity: 0;
+    top: -150%;
+}
+
+.changeFood_modal_overlay.active {
+    top: 0%;
+    opacity: 1;
+}
+
+.modal_body {
+    width: 52rem;
+    height: auto;
+    background-color: white;
+    border-radius: 10px;
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 20px 30px;
+}
+
+.changeFood-close-icon {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 15px;
+    height: 15px;
+    background-color: #888;
+    color: #eee;
+    text-align: center;
+    line-height: 15px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.changeFood-form-heading {
+    color: #222;
+    margin: 10px 0px 20px;
+    font-size: 20px;
+}
+
+
+/*Address*/
+.input-form {
+    margin-bottom: 3.6rem;
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+}
+
+.input-label {
+    width: 6.4rem;
+}
+
+.wrapper-input {
+    width: 100%;
+    border: none;
+    border-radius: 12px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+}
+
+.wrapper-input label {
+    all: unset;
+}
+
+.wrapper-input label,
+.wrapper-input select,
+.wrapper-input input {
+    padding: 1rem 0 1rem 1.2rem;
+    background-color: #fdf2e9;
+    font-size: 1.6rem;
+    font-family: inherit;  
+    color: inherit;
+    border: none; 
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+    flex: 1;
+}
+
+.wrapper-input button {
+    border: none;
+    margin-left: -50px; /* Khoảng cách giữa nút và input */
+    z-index: 1; /* Đảm bảo nút nằm phía trên input */
+    font-size: 1.6rem;
+    border-radius: unset;
+    padding: 1.2rem 0.8rem;
+}
+
+.input-label {
+    font-size: 1.6rem;
+    font-weight: 520;
+    width: 100%;
+    padding: 1.2rem;
+}
+
+.food-pic {
+    margin-left: 4rem;
+    width: 25rem;
+    height: 18rem;
+    border-radius: 12px;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+
+    cursor: pointer;
+}
+
+.button-list {
+    display: flex;
+    justify-content: space-around;
+}
+
+.button-list .btn--form{
+    font-size: 1.6rem;
+    padding: 1.2rem 1.6rem;
+    width: 10rem;
+}

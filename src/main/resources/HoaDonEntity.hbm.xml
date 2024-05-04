@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+    <class name="com.example.demo.model.HoaDonEntity" table="HoaDon" schema="dbo" catalog = "DeadlineRestaurant">
+        <id name="idHoaDon">
+            <column name="idHoaDon" sql-type="bigint" length="50"/>
+            <generator class="identity"></generator>
+        </id>
+        <many-to-one name="nguoiDung" class="com.example.demo.model.NguoiDungEntity">
+            <column name="idnguoidung" not-null="true"></column>
+        </many-to-one>
+        <property name="ngayDatHang">
+            <column name="NgayDatHang" sql-type="nvarchar(255)" length="50"/>
+        </property>
+        <property name="moTa">
+            <column name="MoTa" sql-type="nvarchar(255)" length="50"/>
+        </property>
+        <property name="diaChiGiaoHang">
+            <column name="DiaChiGiaoHang" sql-type="nvarchar(255)" length="50"/>
+        </property>
+        <property name="tongSoTien">
+            <column name="TongSoTien" sql-type="bigint" length="50"/>
+        </property>
+        <set name="gioHang" table="GioHang" fetch="select">
+            <key>
+                <column name="idHoaDon" not-null="true"></column>
+            </key>
+            <one-to-many class="com.example.demo.model.GioHangEntity"/>
+        </set>
+
+    </class>
+</hibernate-mapping>
