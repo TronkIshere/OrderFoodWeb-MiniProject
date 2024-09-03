@@ -34,7 +34,7 @@ public class AddUserServlet extends HttpServlet {
 
         // Thay đổi đường dẫn lưu ảnh tùy thuộc vào cấu hình máy chủ của bạn
         String uploadDirectoryIntoDatabase = "img/customersAvt";
-        String uploadDirectoryIntoServer = "C:\\Users\\ADMIN\\OneDrive\\Desktop\\DeadlineRestaurat\\src\\main\\webapp\\img\\customersAvt";
+        String uploadDirectoryIntoServer = "D:\\MiniProject\\\\DeadlineRestaurat\\src\\main\\webapp\\img\\customersAvt";
 
         String savePathIntoDatabase = uploadDirectoryIntoDatabase + "/" + fileName;
         String savePathIntoServer = uploadDirectoryIntoServer + File.separator + fileName;

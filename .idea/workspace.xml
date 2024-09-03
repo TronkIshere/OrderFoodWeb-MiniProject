@@ -12,7 +12,64 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45ec4425-24fa-4f3a-9e86-6bd8ff0476da" name="Changes" comment="Changes" />
+    <list default="true" id="45ec4425-24fa-4f3a-9e86-6bd8ff0476da" name="Changes" comment="Changes">
+      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-07_21-24-41/details.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-07_21-24-41/diff-details.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-07_21-24-41/diff.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-07_21-24-41/diff.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-07_21-24-41/diff.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-07_21-24-41/results.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-07_21-24-41/results.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-07_21-24-41/results.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-07_21-24-41/results.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-14_03-01-18/details.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-14_03-01-18/diff-details.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-14_03-01-18/diff.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-14_03-01-18/diff.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-14_03-01-18/diff.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-14_03-01-18/results.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-14_03-01-18/results.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-14_03-01-18/results.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-14_03-01-18/results.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-19_00-08-13/details.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-19_00-08-13/diff-details.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-19_00-08-13/diff.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-19_00-08-13/diff.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-19_00-08-13/diff.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-19_00-08-13/results.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-19_00-08-13/results.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-19_00-08-13/results.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-19_00-08-13/results.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-19_19-38-09/details.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-19_19-38-09/diff-details.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-19_19-38-09/diff.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-19_19-38-09/diff.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-19_19-38-09/diff.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-19_19-38-09/results.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-19_19-38-09/results.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-19_19-38-09/results.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-19_19-38-09/results.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-20_00-01-04/details.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-20_00-01-04/diff-details.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-20_00-01-04/diff.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-20_00-01-04/diff.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-20_00-01-04/diff.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-20_00-01-04/results.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-20_00-01-04/results.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-20_00-01-04/results.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-20_00-01-04/results.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0c7c84a8-1840-4782-902a-80599c727165.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0c7c84a8-1840-4782-902a-80599c727165.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0c7c84a8-1840-4782-902a-80599c727165/storage_v2/_src_/database/DeadlineRestaurant.1a_J0g/schema/dbo.sYMBAA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0c7c84a8-1840-4782-902a-80599c727165/storage_v2/_src_/database/DeadlineRestaurant.1a_J0g/schema/dbo.sYMBAA.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/servlet/Food/AddFoodServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/servlet/Food/AddFoodServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/servlet/Food/UpdateFoodServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/servlet/Food/UpdateFoodServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/servlet/User/AddUserServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/servlet/User/AddUserServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/servlet/User/UpdateUserServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/servlet/User/UpdateUserServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/servlet/User/UpdateUserServletForAdminPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/servlet/User/UpdateUserServletForAdminPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +85,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -47,6 +104,9 @@
     <option name="FILTER_INFO" value="true" />
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -69,7 +129,7 @@
     "JPA.DatabaseSchemaImportDialog": "0c7c84a8-1840-4782-902a-80599c727165",
     "WebServerToolWindowFactoryState": "false",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/ADMIN/OneDrive/Desktop/Làm lũ ngu khổ/chatServer-MiniProject",
+    "last_opened_file_path": "D:/MiniProject/DeadlineRestaurat",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -78,7 +138,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -109,7 +169,7 @@
       <recent name="com.example.demo.dao" />
     </key>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat 10.1.181">
+  <component name="RunManager" selected="Tomcat Server.Tomcat 10.1.28">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -129,7 +189,8 @@
     <configuration name="index.jsp" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/demo/index.jsp">
       <method v="2" />
     </configuration>
-    <configuration name="Tomcat 10.1.181" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.19" ALTERNATIVE_JRE_ENABLED="false">
+    <configuration name="Tomcat 10.1.28" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.28" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
       <option name="UPDATING_POLICY" value="redeploy-artifacts" />
       <deployment>
         <artifact name="demo:war exploded">
@@ -216,10 +277,15 @@
         </option>
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Database Script.drawSQL-sqlsrv-export-2024-04-07.sql" />
+      <item itemvalue="JavaScript Debug.index.jsp" />
+      <item itemvalue="Tomcat Server.Tomcat 10.1.28" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Database Script.drawSQL-sqlsrv-export-2024-04-07.sql" />
         <item itemvalue="JavaScript Debug.index.jsp" />
+        <item itemvalue="Database Script.drawSQL-sqlsrv-export-2024-04-07.sql" />
       </list>
     </recent_temporary>
   </component>
@@ -293,10 +359,18 @@
       <workItem from="1713782740423" duration="990000" />
       <workItem from="1713862569699" duration="988000" />
       <workItem from="1714749314361" duration="66000" />
+      <workItem from="1715758232270" duration="146000" />
+      <workItem from="1715759036107" duration="27000" />
+      <workItem from="1725354170967" duration="8366000" />
+      <workItem from="1725363526383" duration="1802000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

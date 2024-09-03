@@ -33,7 +33,7 @@ public class UpdateFoodServlet extends HttpServlet {
 
         // Thay đổi đường dẫn lưu ảnh tùy thuộc vào cấu hình máy chủ của bạn
         String uploadDirectoryIntoDatabase = "img/mealAvt";
-        String uploadDirectoryIntoServer = "C:\\Users\\ADMIN\\OneDrive\\Desktop\\DeadlineRestaurat\\src\\main\\webapp\\img\\mealAvt";
+        String uploadDirectoryIntoServer = "D:\\MiniProject\\DeadlineRestaurat\\src\\main\\webapp\\img\\mealAvt";
 
         String savePathIntoDatabase = uploadDirectoryIntoDatabase + "/" + fileName;
         String savePathIntoServer = uploadDirectoryIntoServer + File.separator + fileName;
