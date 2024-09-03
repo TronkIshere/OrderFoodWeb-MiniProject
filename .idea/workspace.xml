@@ -12,63 +12,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45ec4425-24fa-4f3a-9e86-6bd8ff0476da" name="Changes" comment="Changes">
-      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-07_21-24-41/details.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-07_21-24-41/diff-details.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-07_21-24-41/diff.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-07_21-24-41/diff.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-07_21-24-41/diff.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-07_21-24-41/results.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-07_21-24-41/results.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-07_21-24-41/results.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-07_21-24-41/results.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-14_03-01-18/details.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-14_03-01-18/diff-details.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-14_03-01-18/diff.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-14_03-01-18/diff.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-14_03-01-18/diff.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-14_03-01-18/results.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-14_03-01-18/results.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-14_03-01-18/results.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-14_03-01-18/results.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-19_00-08-13/details.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-19_00-08-13/diff-details.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-19_00-08-13/diff.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-19_00-08-13/diff.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-19_00-08-13/diff.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-19_00-08-13/results.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-19_00-08-13/results.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-19_00-08-13/results.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-19_00-08-13/results.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-19_19-38-09/details.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-19_19-38-09/diff-details.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-19_19-38-09/diff.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-19_19-38-09/diff.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-19_19-38-09/diff.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-19_19-38-09/results.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-19_19-38-09/results.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-19_19-38-09/results.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-19_19-38-09/results.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-20_00-01-04/details.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-20_00-01-04/diff-details.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-20_00-01-04/diff.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-20_00-01-04/diff.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-20_00-01-04/diff.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-20_00-01-04/results.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-20_00-01-04/results.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-20_00-01-04/results.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.VSCodeCounter/2024-04-20_00-01-04/results.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0c7c84a8-1840-4782-902a-80599c727165.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0c7c84a8-1840-4782-902a-80599c727165.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0c7c84a8-1840-4782-902a-80599c727165/storage_v2/_src_/database/DeadlineRestaurant.1a_J0g/schema/dbo.sYMBAA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0c7c84a8-1840-4782-902a-80599c727165/storage_v2/_src_/database/DeadlineRestaurant.1a_J0g/schema/dbo.sYMBAA.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="45ec4425-24fa-4f3a-9e86-6bd8ff0476da" name="Changes" comment="Fix can't run error.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/servlet/RegisterUserServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/servlet/Food/AddFoodServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/servlet/Food/AddFoodServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/servlet/Food/UpdateFoodServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/servlet/Food/UpdateFoodServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/servlet/User/AddUserServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/servlet/User/AddUserServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/servlet/User/UpdateUserServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/servlet/User/UpdateUserServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/servlet/User/UpdateUserServletForAdminPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/servlet/User/UpdateUserServletForAdminPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/servlet/RegisterServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,29 +72,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JPA.DatabaseSchemaImportDialog": "0c7c84a8-1840-4782-902a-80599c727165",
-    "WebServerToolWindowFactoryState": "false",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/MiniProject/DeadlineRestaurat",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JPA.DatabaseSchemaImportDialog&quot;: &quot;0c7c84a8-1840-4782-902a-80599c727165&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/MiniProject/DeadlineRestaurat&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "sqlserver"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;sqlserver&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ADMIN\OneDrive\Desktop\DeadlineRestaurat\src\main\resources" />
@@ -362,12 +310,25 @@
       <workItem from="1715758232270" duration="146000" />
       <workItem from="1715759036107" duration="27000" />
       <workItem from="1725354170967" duration="8366000" />
-      <workItem from="1725363526383" duration="1802000" />
+      <workItem from="1725363526383" duration="11736000" />
     </task>
+    <task id="LOCAL-00001" summary="Fix can't run error.">
+      <option name="closed" value="true" />
+      <created>1725365525361</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725365525361</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fix can't run error." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix can't run error." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

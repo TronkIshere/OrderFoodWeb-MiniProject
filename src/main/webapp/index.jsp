@@ -461,7 +461,6 @@
         <section id="section-cta" class="section-cta">
             <div class="container">
                 <div class="cta">
-                    
                     <div class="cta-text-box">
                         <h2 class="heading-secondary">Chúng tôi đề nghị gói started miễn phí</h2>
                         <p class="cta-text">
@@ -469,44 +468,38 @@
                             Các bạn sẽ nhận được một gói started pack miễn phí.
                         </p>
 
-                        <form action="#" id="cta-form" class="cta-form">
+                        <form action="${pageContext.request.contextPath}/registerUserServlet" method="POST" id="cta-form" class="cta-form">
                             <div>
-                                <label for = "full-name">Họ tên: </label>
-                                <input id="full-name" type="text" placeholder=" Tronk" required/>
+                                <label for="Full-name">Họ tên: </label>
+                                <input id="Full-name" name="Full-name" type="text" placeholder="Tronk" required/>
                             </div>
-                            
                             <div>
-                                <label for="gender">Giới tính: </label>
-                                <select id="Gender" required>
+                                <label for="Gender">Giới tính: </label>
+                                <select id="Gender" name="Gender" required>
                                     <option value="">Hãy chọn giới tính của bạn:</option>
-                                    <option id="Nam" value="Nam">Nam</option>
-                                    <option id="Nu" value="Nữ">Nữ</option>
-                                </select> 
+                                    <option value="Nam">Nam</option>
+                                    <option value="Nữ">Nữ</option>
+                                </select>
                             </div>
-                            
                             <div>
-                                <label for="Adress">Địa chỉ: </label>
-                                <input id="Adress" type="text" placeholder=" 688/91, Quang trung" required/>
+                                <label for="Address">Địa chỉ: </label>
+                                <input id="Address" name="Address" type="text" placeholder="688/91, Quang trung" required/>
                             </div>
-
                             <div>
                                 <label for="Number">Số điện thoại: </label>
-                                <input id="Number" type="number" placeholder=" 0359256696" required/>
+                                <input id="Number" name="Number" type="number" placeholder="0359256696" required/>
                             </div>
-
                             <div>
                                 <label for="Email">Email: </label>
-                                <input id="Email" type="email" placeholder=" me@example.com" required/>
+                                <input id="Email" name="Email" type="email" placeholder="me@example.com" required/>
                             </div>
-
                             <div>
                                 <label for="Password">Mật khẩu: </label>
-                                <input id="Password" type="password" placeholder=" Mật khẩu" required/>
+                                <input id="Password" name="Password" type="password" placeholder="Mật khẩu" required/>
                             </div>
-                            
-
-                            <button class="btn btn--form">Đăng ký ngay</button>
+                            <button type="submit" class="btn btn--form">Đăng ký ngay</button>
                         </form>
+
                     </div>
 
                     <div class="cta-img-box" role="img">
